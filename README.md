@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lspencer2011
 - 👀 I’m interested in Healthcare, Analytics, Data Modeling, Cloud Computing, Data Vizualization, and Machine Learning
-- 🌱 I’m currently learning Advanced SQL (SSIS), ETL, Python (Anaconda,Pandas), Dimensional Modeling
-- 💞️ I’m looking to collaborate on creating a new iOS application or public accessible database 
+- 🌱 I’m currently learning Advanced SQL, Python, ETL/Automation tools, and Dimensional Modeling/Warehousing 
+- 💞️ I’m looking to collaborate on creating fun and useful Python projects or data analytics repositories
 - 📫 How to reach me -- Email: lspencer2011@gmail.com
 
 <!---
